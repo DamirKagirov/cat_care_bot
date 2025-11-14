@@ -125,17 +125,20 @@
 ## 🖼️ Скриншоты интерфейса
 
 Внешний вид анкеты 
+
 <img src="screenshots/Анкета.png" alt="Анкета" width="800" />
 
 Панель CRM 
+
 <img src="screenshots/CRM.png" alt="CRM" width="800" />
 
 Дашборд с диаграммами 
+
 <img src="screenshots/Дашборд.png" alt="Дашборд с диаграммами" width="800" />
 
 Фрагменты схемы в конструкторе 
-<img src="screenshots/Salebot1.png" alt="Salebot1" width="800" />
 <img src="screenshots/Salebot2.png" alt="Salebot2" width="800" />
+<img src="screenshots/Salebot1.png" alt="Salebot1" width="800" />
 
 
 ## 🚀 Преимущества проекта
